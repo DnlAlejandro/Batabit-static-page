@@ -1,0 +1,50 @@
+html{
+    font-size: 70%;
+}
+.plans-container--slider{
+    justify-content: center;
+    overflow-x: initial;
+}
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+header img{
+    transform: scale(2.0);
+}
+.header--title-container h1{
+    font-size: 2.8rem;
+}
+
+.header--title-container p{
+
+    font-size: 2.2rem;
+}
+.header--title-container .header--button{
+
+    transform: scale(1.5);
+
+}
+.main-exchange-container .background-img{
+    transform: scale(1.3);
+    margin: 50px auto 100px;
+}
+.bitcoin-img-container{
+    background-image: url("../assets/img/bitcoinbaby2x.png");
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bitcoin-img-container h2{
+
+    font-size: 8.4rem;
+
+}
