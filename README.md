@@ -1,6 +1,6 @@
-# Batabit-static-page
+# Batabit static page
 Static responsive website themed to sell cryptocurrency services.<br>
-[Check it out on the web](http://https://dnlalejandro.github.io/Batabit-static-page/index.html "Check it out on the web")
+[Check it out on the web](https://dnlalejandro.github.io/Batabit-static-page/index.html "Check it out on the web")
 
 ### Mobile
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KyQ5GRN/127-i-Phone-X-2022-7-14-at-1-18-13-A-M.jpg" alt="127-i-Phone-X-2022-7-14-at-1-18-13-A-M" border="0" /></a>
